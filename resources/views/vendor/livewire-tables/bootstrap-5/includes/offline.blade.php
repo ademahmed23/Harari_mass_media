@@ -1,0 +1,2 @@
+@php $styleCss = 'style' @endphp
+
